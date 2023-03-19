@@ -1,0 +1,2 @@
+# add files or folder to be ignored
+tests/__pycache__/*
