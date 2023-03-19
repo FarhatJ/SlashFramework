@@ -34,7 +34,7 @@ slash list tests
 slash run tests\test_file.py --repeat-all 4   # this single test will run 4 times
 ```
 
-### How to run test is verbose mode?
+### How to run test in verbose mode?
 ```
 slash run -vvv tests\test_filename.py
 ```
